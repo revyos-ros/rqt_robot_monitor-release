@@ -1,3 +1,26 @@
+## rqt_robot_monitor (humble) - 1.0.6-2
+
+The packages in the `rqt_robot_monitor` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r humble rqt_robot_monitor` on `Wed, 29 May 2024 09:06:26 -0000`
+
+The `rqt_robot_monitor` package was released.
+
+Version of package(s) in repository `rqt_robot_monitor`:
+
+- upstream repository: https://github.com/ros-visualization/rqt_robot_monitor.git
+- release repository: https://github.com/revyos-ros/rqt_robot_monitor-release.git
+- rosdistro version: `1.0.5-2`
+- old version: `1.0.6-1`
+- new version: `1.0.6-2`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## rqt_robot_monitor (rolling) - 1.0.6-1
 
 The packages in the `rqt_robot_monitor` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling --track rolling rqt_robot_monitor --edit` on `Wed, 15 May 2024 09:27:39 -0000`
