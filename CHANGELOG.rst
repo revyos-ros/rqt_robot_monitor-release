@@ -2,6 +2,12 @@
 Changelog for package rqt_robot_monitor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.6 (2024-05-15)
+------------------
+* Fix warning for setup.cfg that separation by dash will be removed (`#45 <https://github.com/ros-visualization/rqt_robot_monitor/issues/45>`_)
+* Fix for instantiation issue (`#43 <https://github.com/ros-visualization/rqt_robot_monitor/issues/43>`_)
+* Fix error on ctrl+c
+
 1.0.5 (2022-03-16)
 ------------------
 * Improve error and warning lists by only showing leaf-elements
